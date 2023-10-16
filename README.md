@@ -36,6 +36,8 @@ k3s --version
 sudo $(which k3s) server
 ```
 
+É necessário deixar esse comando em uma janela, para que o K3s fique em funcionamento.
+
 ## Abra uma nova aba do Wsl e execute para conferir o status
 ```shell
 k3s check-config
