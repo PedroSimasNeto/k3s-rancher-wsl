@@ -1,6 +1,6 @@
 https://www.guide2wsl.com/k3s/
 
-# Install k3s on our WSL 2 distro
+# Instale k3s em nossa distribuição WSL 2
 
 ## Informar a versão do K3s
 ```shell
